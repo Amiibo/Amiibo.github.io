@@ -1,0 +1,234 @@
+﻿[
+    {
+        "id": 1,
+        "name": "Mario™",
+        "game": "Super Smash Bros. series",
+        "picture": "mario.png",
+        "releasedate": "11/21/2014",
+        "amazon": "http://www.amazon.com/exec/obidos/ASIN/B00N4ABMG4/ref=nosim/7240463-rg2728-00-20?s=merchant&m=ATVPDKIKX0DER"
+    },
+    {
+        "id": 2,
+        "name": "Link™",
+        "game": "Super Smash Bros. series",
+        "picture": "link.png",
+        "releasedate": "11/21/2014",
+        "amazon": "http://www.amazon.com/exec/obidos/ASIN/B00N4ABVOM/ref=nosim/7240463-rg2728-00-20?s=merchant&m=ATVPDKIKX0DER"
+    },
+    {
+        "id": 3,
+        "name": "Samus™",
+        "game": "Super Smash Bros. series",
+        "picture": "samus.png",
+        "releasedate": "11/21/2014",
+        "amazon": "http://amzn.com/B00N49EEO2"
+    },
+    {
+        "id": 4,
+        "name": "Kirby™",
+        "game": "Super Smash Bros. series",
+        "picture": "kirby.png",
+        "releasedate": "11/21/2014",
+        "amazon": "http://amzn.com/B00N4ABV10"
+    },
+    {
+        "id": 5,
+        "name": "Fox",
+        "game": "Super Smash Bros. series",
+        "picture": "fox.png",
+        "releasedate": "11/21/2014",
+        "amazon": "http://amzn.com/B00N4ABODK"
+    },
+    {
+        "id": 6,
+        "name": "Donkey Kong™",
+        "game": "Super Smash Bros. series",
+        "picture": "dk.png",
+        "releasedate": "11/21/2014",
+        "amazon": "http://amzn.com/B00N4ABP7A"
+    },
+    {
+        "id": 7,
+        "name": "Pikachu",
+        "game": "Super Smash Bros. series",
+        "picture": "pikachu.png",
+        "releasedate": "11/21/2014",
+        "amazon": "http://amzn.com/B00N4ABSLS"
+    },
+    {
+        "id": 8,
+        "name": "Peach™",
+        "game": "Super Smash Bros. series",
+        "picture": "peach.png",
+        "releasedate": "11/21/2014",
+        "amazon": "http://amzn.com/B00N4ABT1W"
+    },
+    {
+        "id": 9,
+        "name": "Marth",
+        "game": "Super Smash Bros. series",
+        "picture": "marth.png",
+        "releasedate": "11/21/2014",
+        "amazon": "http://amzn.com/B00N4ABOXU"
+    },
+    {
+        "id": 10,
+        "name": "Yoshi™",
+        "game": "Super Smash Bros. series",
+        "picture": "yoshi.png",
+        "releasedate": "11/21/2014",
+        "amazon": "http://amzn.com/B00N4ABT1C"
+    },
+    {
+        "id": 11,
+        "name": "Villager",
+        "game": "Super Smash Bros. series",
+        "picture": "villager.png",
+        "releasedate": "11/21/2014",
+        "amazon": "http://amzn.com/B00N4ABMUA"
+    },
+    {
+        "id": 12,
+        "name": "Wii Fit Trainer",
+        "game": "Super Smash Bros. series",
+        "picture": "wiifit.png",
+        "releasedate": "11/21/2014",
+        "amazon": "http://amzn.com/B00N49EERY"
+    },
+    {
+        "id": 13,
+        "name": "Diddy Kong™",
+        "game": "Super Smash Bros. series",
+        "picture": "diddy.png",
+        "releasedate": "12/2014",
+        "amazon": "http://amzn.com/B00O982JSU"
+    },
+    {
+        "id": 14,
+        "name": "Zelda™",
+        "game": "Super Smash Bros. series",
+        "picture": "zelda.png",
+        "releasedate": "12/2014",
+        "amazon": "http://amzn.com/B00O92ONBM"
+    },
+    {
+        "id": 15,
+        "name": "Luigi™",
+        "game": "Super Smash Bros. series",
+        "picture": "luigi.png",
+        "releasedate": "12/2014",
+        "amazon": "http://amzn.com/B00O97ZWVC"
+    },
+    {
+        "id": 16,
+        "name": "Captain Falcon",
+        "game": "Super Smash Bros. series",
+        "picture": "captain_falcon.png",
+        "releasedate": "12/2014",
+        "amazon": "http://amzn.com/B00O97ZVJ0"
+    },
+    {
+        "id": 17,
+        "name": "Pit",
+        "game": "Super Smash Bros. series",
+        "picture": "pit.png",
+        "releasedate": "12/2014",
+        "amazon": "http://amzn.com/B00O97ZYP6"
+    },
+    {
+        "id": 18,
+        "name": "Little Mac",
+        "game": "Super Smash Bros. series",
+        "picture": "little_mac.png",
+        "releasedate": "12/2014",
+        "amazon": "http://amzn.com/B00O97ZVJA"
+    },
+    {
+        "id": 19,
+        "name": "Bowser™",
+        "game": "Super Smash Bros. series",
+        "picture": "bowser.png",
+        "releasedate": "02/2015",
+        "amazon": "http://amzn.com/B00PG6Z65M"
+    },
+    {
+        "id": 20,
+        "name": "Toon Link",
+        "game": "Super Smash Bros. series",
+        "picture": "toon_link.png",
+        "releasedate": "02/2015",
+        "amazon": "http://amzn.com/B00PG6Z9VI"
+    },
+    {
+        "id": 21,
+        "name": "Sheik",
+        "game": "Super Smash Bros. series",
+        "picture": "sheik.png",
+        "releasedate": "02/2015",
+        "amazon": "http://amzn.com/B00PG6ZAZ8"
+    },
+    {
+        "id": 22,
+        "name": "Sonic™",
+        "game": "Super Smash Bros. series",
+        "picture": "sonic.png",
+        "releasedate": "02/2015",
+        "amazon": "http://amzn.com/B00PG6ZBTS"
+    },
+    {
+        "id": 23,
+        "name": "Mega Man™",
+        "game": "Super Smash Bros. series",
+        "picture": "mega_man.png",
+        "releasedate": "02/2015",
+        "amazon": "http://amzn.com/B00PG6ZCT2"
+    },
+    {
+        "id": 24,
+        "name": "King Dedede",
+        "game": "Super Smash Bros. series",
+        "picture": "king_dedede.png",
+        "releasedate": "02/2015",
+        "amazon": "http://amzn.com/B00PG6ZDPK"
+    },
+    {
+        "id": 25,
+        "name": "Ike",
+        "game": "Super Smash Bros. series",
+        "picture": "ike.png",
+        "releasedate": "02/2015",
+        "amazon": "http://amzn.com/B00PG7M95G"
+    },
+    {
+        "id": 26,
+        "name": "Rosalina & Luma",
+        "game": "Super Smash Bros. series",
+        "picture": "rosalina_and_luma.png",
+        "releasedate": "02/2015",
+        "amazon": ""
+    },
+    {
+        "id": 27,
+        "name": "Shulk",
+        "game": "Super Smash Bros. series",
+        "picture": "shulk.png",
+        "releasedate": "02/2015",
+        "amazon": ""
+    },
+    {
+        "id": 28,
+        "name": "Lucario",
+        "game": "Super Smash Bros. series",
+        "picture": "lucario.png",
+        "releasedate": "02/2015",
+        "amazon": ""
+    },
+    {
+        "id": 29,
+        "name": "Meta Knight",
+        "game": "Super Smash Bros. series",
+        "picture": "meta_knight.png",
+        "releasedate": "02/2015",
+        "amazon": ""
+    }
+]
